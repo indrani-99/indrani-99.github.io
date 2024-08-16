@@ -158,6 +158,16 @@ fetchData("projects").then(data => {
 VanillaTilt.init(document.querySelectorAll(".tilt"), {
     max: 15,
 });
+
+
+function downloadResume() {
+    setTimeout(function() {
+      const link = document.createElement('a');
+      link.href = 'https://drive.google.com/uc?export=download&id=1CeN7Ld20qPr2OIuNgTxyxCWuyHGhqUHU';
+      link.download = '';
+      link.click();
+    }, 1000);
+  }
 // <!-- tilt js effect ends -->
 
 
