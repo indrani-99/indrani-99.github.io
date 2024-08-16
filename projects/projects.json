@@ -1,0 +1,22 @@
+[
+  {
+    "name": "SnapBasket",
+    "desc": "SnapBasket built using HTML, CSS  and JavaScript. It's a grocery ecommerce website.",
+    "image": "SnapBasket",
+    "category": "mern",
+    "links": {
+      "view": "https://debug-adept-0123.vercel.app/snapBasket/index.html",
+      "code": "https://github.com/indrani-99/snap-basket"
+    }
+  },
+  {
+    "name": "ShopCart",
+    "desc": "ShopCart built using React, TypeScript and Chakra Ui. It's a electronics ecommerce website.",
+    "image": "ShopCart",
+    "category": "mern",
+    "links": {
+      "view": "https://shop-cart-flame.vercel.app/",
+      "code": "https://github.com/indrani-99/shop-cart"
+    }
+  }
+]
